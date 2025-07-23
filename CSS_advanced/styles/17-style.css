@@ -125,7 +125,7 @@ a:active {
     margin-right: auto;
 }
 
-.section-padding {
+.section {
     padding: var(--section-padding);
 }
 
