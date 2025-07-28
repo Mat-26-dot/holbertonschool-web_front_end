@@ -275,7 +275,7 @@ ul.row {
 }
 
 .nav .nav-link:hover {
-    color: var(--color-primary);
+    color: var(--nav-item-link-hover);
 }
 
 .nav .nav-link::before {
