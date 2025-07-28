@@ -278,7 +278,7 @@ ul.row {
     color: var(--nav-item-link-hover);
 }
 
-.nav-link::before {
+.nav .nav-link::before {
   content: "";
   position: absolute;
   top: 0;
