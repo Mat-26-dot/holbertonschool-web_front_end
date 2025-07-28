@@ -134,7 +134,7 @@ a:active {
 .row::after {
     content: "";
     display: table;
-    clear: none;
+    clear: both;
 }
 
 ul.row {
