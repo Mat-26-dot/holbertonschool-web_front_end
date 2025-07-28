@@ -149,6 +149,17 @@ ul.row {
     padding: 0.5rem;
 }
 
+.footer ul{
+    text-align: right;
+}
+
+.footer-copyright {
+    margin: 0;
+    size: var(--font-size-small);
+    color: var(--text-color);
+    text-align: right;
+}
+
 .container {
     width: 960px;
     /*margin:0 auto;*/
@@ -177,13 +188,6 @@ ul.row {
 
 .footer {
     padding: var(--footer-padding);
-}
-
-.footer-copyright {
-    margin: 0;
-    size: var(--font-size-small);
-    color: var(--text-color);
-    text-align: right;
 }
 
 .navbar-menu {
